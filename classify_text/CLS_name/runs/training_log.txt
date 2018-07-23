@@ -1,0 +1,4 @@
+Time::2018-07-23T11:23:26.315147, Step::2000, Loss::1.74591493607, Accuracy::0.4140625 on Test data.
+Time::2018-07-23T12:30:16.295267, Step::4000, Loss::0.973820328712, Accuracy::0.6484375 on Test data.
+Time::2018-07-23T14:02:32.608647, Step::6000, Loss::0.83297431469, Accuracy::0.71875 on Test data.
+Time::2018-07-23T15:11:06.917880, Step::8000, Loss::0.694196164608, Accuracy::0.765625 on Test data.
