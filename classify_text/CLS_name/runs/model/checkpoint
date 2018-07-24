@@ -1,3 +1,5 @@
-model_checkpoint_path: "/home/lj/project/classify_text/CLS_name/runs/model/classify_text.ckpt-8000"
+model_checkpoint_path: "/home/lj/project/classify_text/CLS_name/runs/model/classify_text.ckpt-12000"
 all_model_checkpoint_paths: "/home/lj/project/classify_text/CLS_name/runs/model/classify_text.ckpt-6000"
 all_model_checkpoint_paths: "/home/lj/project/classify_text/CLS_name/runs/model/classify_text.ckpt-8000"
+all_model_checkpoint_paths: "/home/lj/project/classify_text/CLS_name/runs/model/classify_text.ckpt-10000"
+all_model_checkpoint_paths: "/home/lj/project/classify_text/CLS_name/runs/model/classify_text.ckpt-12000"

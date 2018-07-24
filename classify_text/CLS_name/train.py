@@ -13,7 +13,7 @@ from sklearn.cross_validation import train_test_split
 # ==================================================
 
 # Data loading params
-tf.flags.DEFINE_float("dev_per", 0.0001, "Percentage of the training data to use for validation")
+tf.flags.DEFINE_float("dev_per", 0.01, "Percentage of the training data to use for validation")
 tf.flags.DEFINE_string("caijing_data_file", "./data/train_data/train_caijing.txt", "Data source for the caijing data.")
 tf.flags.DEFINE_string("caipiao_data_file", "./data/train_data/train_caipiao.txt", "Data source for the caipiao data.")
 tf.flags.DEFINE_string("fangchan_data_file", "./data/train_data/train_fangchan.txt", "Data source for the fangchan data.")
